@@ -1,16 +1,28 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**akrivo-lk/akrivo-lk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there  <img src="https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/assets/hi.gif" width="30px">, we are AKRIVO.LK.
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center"> 
+
+
+
+<h3 align="center"> ƤɾօƒíƖҽ Víҽⱳʂ 🕵️‍♂️ </h3>
+<div align="center">
+
+![Visitor Count](https://profile-counter.glitch.me/{Mindula-Dilthushan}/count.svg)
+</div>
+
+
+<div align="center">
+
+
+
+<div align="center">
+
+![image](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/assets/image.gif)
+</div>
+
+<div>
+
