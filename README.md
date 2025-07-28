@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, We Are AKRIVO.LK</h1>
-<h3 align="center">A Leading Software Company In Sri Lanka based on UK</h3>
+<h1 align="center">Hi 👋, We Are AKRIVO.UK</h1>
+<h3 align="center">A Leading Software Company In United Kingdom based on Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akrivo-lk&label=Profile%20views&color=0e75b6&style=flat" alt="akrivo-lk" /> </p>
 
